@@ -1,6 +1,7 @@
 ## Certificates acquired from various online courses 
 
 List of certificates to date:
+- Tatiana Snauwaert - Practicum_Data_Science_2021
 - Tatiana Snauwaert - Advanced SQL
 - Tatiana Snauwaert - Data Visualization
 - Tatiana Snauwaert - Deep Learning
