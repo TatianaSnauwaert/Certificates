@@ -10,6 +10,7 @@ List of certificates to date:
 - Tatiana Snauwaert - Intermediate Machine Learning
 - Tatiana Snauwaert - Intro to Machine Learning
 - Tatiana Snauwaert - Intro to SQL
+- Tatiana Snauwaert - Natural Language Processing
 - Tatiana Snauwaert - Pandas
 - Tatiana Snauwaert - Python
 - Tatiana Snauwaert - Python for Data Science and ML Bootcamp
